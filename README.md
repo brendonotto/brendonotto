@@ -1,20 +1,12 @@
+# Brendon Otto
+
 ### Hi there 👋
 
-I'm a software engineer in the Minneapolis area working for FMG Suite. 
+I'm a lead software engineer in the Minneapolis area working for [FMG Suite](https://fmgsuite.com/). At FMG Suite I work mainly in .NET building out APIs for a mobile app, extending their website engine and in the last year adopted React within the platform.
 
-📫 How to reach me: brendondotto on twitter or brendon@brendonotto.com
-
-<!--
-**brendonotto/brendonotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working in C#, React & SQL
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on Rust, Elixir, React
+- 🤔 I’m looking for help with Rust
+- 📫 How to reach me: @brendondotto on Twitter or brendon@brendonotto.com
+- 😄 Pronouns: he/him
